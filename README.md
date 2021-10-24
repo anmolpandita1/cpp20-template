@@ -6,7 +6,7 @@
 C++20 starter file and configuration for VS Code. 
 
   Sets -> compilers GCC, CLANG & MSVC
-  Sets -> C++ UI config to allow <i>C++20<i> Syntax Highlighting
+  Sets -> C++ UI config to allow <i>C++20</i> Syntax Highlighting
   
   Output file: rooster.cpp
 </pre>
